@@ -61,7 +61,8 @@ endmodule
 full adder
 ![Screenshot (16)](https://github.com/user-attachments/assets/ffe76d5e-a2bc-4cf2-bc08-b6ccf9b898d5)
 full subractor
-![Screenshot (17)](https://github.com/user-attachments/assets/4ff61f12-67af-45f7-860b-99b54976a217)
+![Screenshot (14)](https://github.com/user-attachments/assets/b5fbd5cd-9647-4bef-b323-2c939bd001b1)
+
 
 **Output Timing Waveform**
 full adder 
